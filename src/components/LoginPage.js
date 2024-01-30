@@ -96,8 +96,8 @@ function LoginPage() {
                       <Link className="text-danger mx-2" to="/signup">
                         Register Now</Link>
                       
-                      <div>username:Hello</div>
-                        <div>password:Guvi@123</div>  
+                      <div>username:Pity</div>
+                        <div>password:Pity@123</div>  
                       
                     </span>
                   </div>
